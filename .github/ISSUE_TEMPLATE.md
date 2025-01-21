@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 21, 2025
+title: Latest 15 Papers - January 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -42,22 +42,22 @@ labels: documentation
 | **[Snapshot: Towards Application-centered Models for Pedestrian Trajectory Prediction in Urban Traffic Environments](http://arxiv.org/abs/2409.01971v2)** | 2025-01-09 | 8 Pages, 9 Figures |
 | **[Pitch Plane Trajectory Tracking Control for Sounding Rockets via Adaptive Feedback Linearization](http://arxiv.org/abs/2501.05285v1)** | 2025-01-09 | <details><summary>Paper...</summary><p>Paper accepted to the IEEE Aerospace Conference 2025. Copyright: 979-8-3503-5597-0/25/$31.00 @2025 IEEE</p></details> |
 
-## Graph Neural Networks
+## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces](http://arxiv.org/abs/2412.18263v4)** | 2025-01-17 | 47 pages |
-| **[Few-shot Structure-Informed Machinery Part Segmentation with Foundation Models and Graph Neural Networks](http://arxiv.org/abs/2501.10080v1)** | 2025-01-17 | <details><summary>Accep...</summary><p>Accepted at Winter Conference on Applications of Computer Vision (WACV) 2025. Code and available at https://github.com/AIT-Assistive-Autonomous-Systems/Hopomop</p></details> |
-| **[Virtual Nodes Improve Long-term Traffic Prediction](http://arxiv.org/abs/2501.10048v1)** | 2025-01-17 |  |
-| **[Benchmarking Graph Representations and Graph Neural Networks for Multivariate Time Series Classification](http://arxiv.org/abs/2501.08305v2)** | 2025-01-17 |  |
-| **[RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning](http://arxiv.org/abs/2408.03195v3)** | 2025-01-17 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2025 (camera-ready version). Due to the space limitation, please refer to the V2 version for more details</p></details> |
-| **[Study on a Fast Solver for Combined Field Integral Equations of 3D Conducting Bodies Based on Graph Neural Networks](http://arxiv.org/abs/2501.09923v1)** | 2025-01-17 | 10 pages,11 figures |
-| **[BN-Pool: a Bayesian Nonparametric Approach to Graph Pooling](http://arxiv.org/abs/2501.09821v1)** | 2025-01-16 |  |
-| **[Graph Neural Networks for Travel Distance Estimation and Route Recommendation Under Probabilistic Hazards](http://arxiv.org/abs/2501.09803v1)** | 2025-01-16 | 17 pages, 11 figures |
-| **[ReFactor GNNs: Revisiting Factorisation-based Models from a Message-Passing Perspective](http://arxiv.org/abs/2207.09980v4)** | 2025-01-16 | <details><summary>36th ...</summary><p>36th Conference on Neural Information Processing Systems (NeurIPS 2022)</p></details> |
-| **[ERGNN: Spectral Graph Neural Network With Explicitly-Optimized Rational Graph Filters](http://arxiv.org/abs/2412.19106v2)** | 2025-01-16 | <details><summary>Accep...</summary><p>Accepted in 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2025</p></details> |
-| **[Fast Searching of Extreme Operating Conditions for Relay Protection Setting Calculation Based on Graph Neural Network and Reinforcement Learning](http://arxiv.org/abs/2501.09399v1)** | 2025-01-16 | 10 pages, 9 figures |
-| **[First Experiments with Neural cvc5](http://arxiv.org/abs/2501.09379v1)** | 2025-01-16 |  |
-| **[Mitigating Overfitting in Graph Neural Networks via Feature and Hyperplane Perturbation](http://arxiv.org/abs/2211.15081v8)** | 2025-01-16 |  |
-| **[Smoothness Really Matters: A Simple Yet Effective Approach for Unsupervised Graph Domain Adaptation](http://arxiv.org/abs/2412.11654v3)** | 2025-01-16 | <details><summary>11 pa...</summary><p>11 pages, Accpected by AAAI2025</p></details> |
-| **[Enhancing Graph Representation Learning with Localized Topological Features](http://arxiv.org/abs/2501.09178v1)** | 2025-01-15 | <details><summary>Accep...</summary><p>Accepted in JMLR 2025</p></details> |
+| **[FaceXBench: Evaluating Multimodal LLMs on Face Understanding](http://arxiv.org/abs/2501.10360v1)** | 2025-01-17 | <details><summary>Proje...</summary><p>Project Page: https://kartik-3004.github.io/facexbench/</p></details> |
+| **[MVTamperBench: Evaluating Robustness of Vision-Language Models](http://arxiv.org/abs/2412.19794v4)** | 2025-01-17 |  |
+| **[Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems](http://arxiv.org/abs/2501.10332v1)** | 2025-01-17 | Accepted by AAAI2025 |
+| **[Large language models for automated scholarly paper review: A survey](http://arxiv.org/abs/2501.10326v1)** | 2025-01-17 | Work in progress |
+| **[HiMix: Reducing Computational Complexity in Large Vision-Language Models](http://arxiv.org/abs/2501.10318v1)** | 2025-01-17 |  |
+| **[Addressing Popularity Bias in Third-Party Library Recommendations Using LLMs](http://arxiv.org/abs/2501.10313v1)** | 2025-01-17 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on Fairness in Software Systems, co-located with SANER2025</p></details> |
+| **[Moonshine: Distilling Game Content Generators into Steerable Generative Models](http://arxiv.org/abs/2408.09594v2)** | 2025-01-17 |  |
+| **[Computational Protein Science in the Era of Large Language Models (LLMs)](http://arxiv.org/abs/2501.10282v1)** | 2025-01-17 |  |
+| **[Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities](http://arxiv.org/abs/2501.09686v2)** | 2025-01-17 | 36 pages, 5 figures |
+| **[Large Language Model is Secretly a Protein Sequence Optimizer](http://arxiv.org/abs/2501.09274v2)** | 2025-01-17 | Preprint |
+| **[Optimal Quantization for Matrix Multiplication](http://arxiv.org/abs/2410.13780v2)** | 2025-01-17 |  |
+| **[Jailbreaking as a Reward Misspecification Problem](http://arxiv.org/abs/2406.14393v4)** | 2025-01-17 |  |
+| **[Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation](http://arxiv.org/abs/2501.10200v1)** | 2025-01-17 |  |
+| **[Generative Artificial Intelligence: Implications for Biomedical and Health Professions Education](http://arxiv.org/abs/2501.10186v1)** | 2025-01-17 |  |
+| **[Multi-stage Training of Bilingual Islamic LLM for Neural Passage Retrieval](http://arxiv.org/abs/2501.10175v1)** | 2025-01-17 |  |
 
