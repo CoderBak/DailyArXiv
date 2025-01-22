@@ -1,63 +1,44 @@
 ---
-title: Latest 15 Papers - January 22, 2025
+title: Latest 15 Papers - January 23, 2025
 labels: documentation
 ---
-**Please check the [Github](https://github.com/CoderBak/Daily_ArXiv) page for a better reading experience and more papers.**
-
-## Time Series
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Uncertainty-Aware Digital Twins: Robust Model Predictive Control using Time-Series Deep Quantile Learning](http://arxiv.org/abs/2501.10337v1)** | 2025-01-17 |  |
-| **[Enhancing reliability in prediction intervals using point forecasters: Heteroscedastic Quantile Regression and Width-Adaptive Conformal Inference](http://arxiv.org/abs/2406.14904v2)** | 2025-01-17 |  |
-| **[SpaceTime: Causal Discovery from Non-Stationary Time Series](http://arxiv.org/abs/2501.10235v1)** | 2025-01-17 |  |
-| **[The Relevance of AWS Chronos: An Evaluation of Standard Methods for Time Series Forecasting with Limited Tuning](http://arxiv.org/abs/2501.10216v1)** | 2025-01-17 |  |
-| **[Continuous Urban Change Detection from Satellite Image Time Series with Temporal Feature Refinement and Multi-Task Integration](http://arxiv.org/abs/2406.17458v2)** | 2025-01-17 | <details><summary>Under...</summary><p>Under review at IEEE Transactions on Geoscience and Remote Sensing, Code will be available at https://github.com/SebastianHafner/ContUrbanCD.git</p></details> |
-| **[Two-level Solar Irradiance Clustering with Season Identification: A Comparative Analysis](http://arxiv.org/abs/2501.10084v1)** | 2025-01-17 | <details><summary>30 pa...</summary><p>30 pages, 9 figures, 6 tables</p></details> |
-| **[Spatiotemporal Prediction of Secondary Crashes by Rebalancing Dynamic and Static Data with Generative Adversarial Networks](http://arxiv.org/abs/2501.10041v1)** | 2025-01-17 |  |
-| **[Benchmarking Graph Representations and Graph Neural Networks for Multivariate Time Series Classification](http://arxiv.org/abs/2501.08305v2)** | 2025-01-17 |  |
-| **[NL2KQL: From Natural Language to Kusto Query](http://arxiv.org/abs/2404.02933v4)** | 2025-01-17 |  |
-| **[Reinforcement learning with non-ergodic reward increments: robustness via ergodicity transformations](http://arxiv.org/abs/2310.11335v3)** | 2025-01-16 | <details><summary>Accep...</summary><p>Accepted final version to appear in the Transactions on Machine Learning Research</p></details> |
-| **[Cueless EEG imagined speech for subject identification: dataset and benchmarks](http://arxiv.org/abs/2501.09700v1)** | 2025-01-16 |  |
-| **[On the optimal prediction of extreme events in heavy-tailed time series with applications to solar flare forecasting](http://arxiv.org/abs/2407.11887v2)** | 2025-01-16 | <details><summary>62 pa...</summary><p>62 pages, 6 figures. Revised version accepted for publication in the Journal of Time Series Analysis</p></details> |
-| **[Asymptotic Equivalence of Locally Stationary Processes and Bivariate White Noise](http://arxiv.org/abs/2410.05751v2)** | 2025-01-16 |  |
-| **[Functional Singular Value Decomposition](http://arxiv.org/abs/2410.03619v3)** | 2025-01-16 | New contents added |
-| **[AALF: Almost Always Linear Forecasting](http://arxiv.org/abs/2409.10142v2)** | 2025-01-16 |  |
-
-## Trajectory
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression](http://arxiv.org/abs/2501.09327v2)** | 2025-01-17 | AAMAS 2025 |
-| **[STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Following Ahead](http://arxiv.org/abs/2209.07600v4)** | 2025-01-17 |  |
-| **[BILTS: A Bi-Invariant Similarity Measure for Robust Object Trajectory Recognition under Reference Frame Variations](http://arxiv.org/abs/2405.04392v2)** | 2025-01-17 | <details><summary>This ...</summary><p>This work has been submitted as a regular research paper for consideration in the Journal of Intelligent & Robotic Systems. The content in this preprint is identical to the version submitted for peer review, except for formatting differences required by the journal</p></details> |
-| **[ASTRA: A Scene-aware TRAnsformer-based model for trajectory prediction](http://arxiv.org/abs/2501.09878v1)** | 2025-01-16 |  |
-| **[Real-Time Generation of Near-Minimum-Energy Trajectories via Constraint-Informed Residual Learning](http://arxiv.org/abs/2501.09450v1)** | 2025-01-16 |  |
-| **[Control Barrier Function-Based Safety Filters: Characterization of Undesired Equilibria, Unbounded Trajectories, and Limit Cycles](http://arxiv.org/abs/2501.09289v1)** | 2025-01-16 |  |
-| **[Estimation-Aware Trajectory Optimization with Set-Valued Measurement Uncertainties](http://arxiv.org/abs/2501.09192v1)** | 2025-01-15 | 25 pages, 5 figures |
-| **[MGF: Mixed Gaussian Flow for Diverse Trajectory Prediction](http://arxiv.org/abs/2402.12238v2)** | 2025-01-15 | <details><summary>Accep...</summary><p>Accepted by Neurips 2024. Code: https://github.com/mulplue/MGF</p></details> |
-| **[Predicting 4D Hand Trajectory from Monocular Videos](http://arxiv.org/abs/2501.08329v1)** | 2025-01-14 |  |
-| **[Pedestrian Trajectory Prediction Based on Social Interactions Learning With Random Weights](http://arxiv.org/abs/2501.07711v1)** | 2025-01-13 | <details><summary>13 pa...</summary><p>13 pages,7 figures,Accepted to IEEE Transactions on Multimedia (TMM)</p></details> |
-| **[Computing Safety Margins of Parameterized Nonlinear Systems for Vulnerability Assessment via Trajectory Sensitivities](http://arxiv.org/abs/2501.07498v1)** | 2025-01-13 | 16 pages |
-| **[Global Search for Optimal Low Thrust Spacecraft Trajectories using Diffusion Models and the Indirect Method](http://arxiv.org/abs/2501.07005v1)** | 2025-01-13 |  |
-| **[Efficient Estimation of Relaxed Model Parameters for Robust UAV Trajectory Optimization](http://arxiv.org/abs/2411.10941v2)** | 2025-01-13 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, to be published in IEEE Sustech 2025</p></details> |
-| **[Snapshot: Towards Application-centered Models for Pedestrian Trajectory Prediction in Urban Traffic Environments](http://arxiv.org/abs/2409.01971v2)** | 2025-01-09 | 8 Pages, 9 Figures |
-| **[Pitch Plane Trajectory Tracking Control for Sounding Rockets via Adaptive Feedback Linearization](http://arxiv.org/abs/2501.05285v1)** | 2025-01-09 | <details><summary>Paper...</summary><p>Paper accepted to the IEEE Aerospace Conference 2025. Copyright: 979-8-3503-5597-0/25/$31.00 @2025 IEEE</p></details> |
+**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FaceXBench: Evaluating Multimodal LLMs on Face Understanding](http://arxiv.org/abs/2501.10360v1)** | 2025-01-17 | <details><summary>Proje...</summary><p>Project Page: https://kartik-3004.github.io/facexbench/</p></details> |
-| **[MVTamperBench: Evaluating Robustness of Vision-Language Models](http://arxiv.org/abs/2412.19794v4)** | 2025-01-17 |  |
-| **[Agent4Edu: Generating Learner Response Data by Generative Agents for Intelligent Education Systems](http://arxiv.org/abs/2501.10332v1)** | 2025-01-17 | Accepted by AAAI2025 |
-| **[Large language models for automated scholarly paper review: A survey](http://arxiv.org/abs/2501.10326v1)** | 2025-01-17 | Work in progress |
-| **[HiMix: Reducing Computational Complexity in Large Vision-Language Models](http://arxiv.org/abs/2501.10318v1)** | 2025-01-17 |  |
-| **[Addressing Popularity Bias in Third-Party Library Recommendations Using LLMs](http://arxiv.org/abs/2501.10313v1)** | 2025-01-17 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on Fairness in Software Systems, co-located with SANER2025</p></details> |
-| **[Moonshine: Distilling Game Content Generators into Steerable Generative Models](http://arxiv.org/abs/2408.09594v2)** | 2025-01-17 |  |
-| **[Computational Protein Science in the Era of Large Language Models (LLMs)](http://arxiv.org/abs/2501.10282v1)** | 2025-01-17 |  |
-| **[Towards Large Reasoning Models: A Survey on Scaling LLM Reasoning Capabilities](http://arxiv.org/abs/2501.09686v2)** | 2025-01-17 | 36 pages, 5 figures |
-| **[Large Language Model is Secretly a Protein Sequence Optimizer](http://arxiv.org/abs/2501.09274v2)** | 2025-01-17 | Preprint |
-| **[Optimal Quantization for Matrix Multiplication](http://arxiv.org/abs/2410.13780v2)** | 2025-01-17 |  |
-| **[Jailbreaking as a Reward Misspecification Problem](http://arxiv.org/abs/2406.14393v4)** | 2025-01-17 |  |
-| **[Test Wars: A Comparative Study of SBST, Symbolic Execution, and LLM-Based Approaches to Unit Test Generation](http://arxiv.org/abs/2501.10200v1)** | 2025-01-17 |  |
-| **[Generative Artificial Intelligence: Implications for Biomedical and Health Professions Education](http://arxiv.org/abs/2501.10186v1)** | 2025-01-17 |  |
-| **[Multi-stage Training of Bilingual Islamic LLM for Neural Passage Retrieval](http://arxiv.org/abs/2501.10175v1)** | 2025-01-17 |  |
+| **[InternVideo2.5: Empowering Video MLLMs with Long and Rich Context Modeling](http://arxiv.org/abs/2501.12386v1)** | 2025-01-21 | technical report |
+| **[Expertise elevates AI usage: experimental evidence comparing laypeople and professional artists](http://arxiv.org/abs/2501.12374v1)** | 2025-01-21 | <details><summary>Eisen...</summary><p>Eisenmann and Karjus contributed equally to this work and share first authorship</p></details> |
+| **[Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL](http://arxiv.org/abs/2501.12372v1)** | 2025-01-21 | 14 pages, 10 figures |
+| **[Automatic Labelling with Open-source LLMs using Dynamic Label Schema Integration](http://arxiv.org/abs/2501.12332v1)** | 2025-01-21 | 11 pages, 1 figure |
+| **[VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model](http://arxiv.org/abs/2501.12327v1)** | 2025-01-21 |  |
+| **[A recent evaluation on the performance of LLMs on radiation oncology physics using questions of randomly shuffled options](http://arxiv.org/abs/2412.10622v3)** | 2025-01-21 |  |
+| **[LLM-Assisted Knowledge Graph Completion for Curriculum and Domain Modelling in Personalized Higher Education Recommendations](http://arxiv.org/abs/2501.12300v1)** | 2025-01-21 | <details><summary>Accep...</summary><p>Accepted in the IEEE Global Engineering Education Conference (EDUCON2025), London, UK, 22-25 April, 2025</p></details> |
+| **[MoGERNN: An Inductive Traffic Predictor for Unobserved Locations in Dynamic Sensing Networks](http://arxiv.org/abs/2501.12281v1)** | 2025-01-21 |  |
+| **[Condor: Enhance LLM Alignment with Knowledge-Driven Data Synthesis and Refinement](http://arxiv.org/abs/2501.12273v1)** | 2025-01-21 | <details><summary>Tech ...</summary><p>Tech Report. Github: https://github.com/InternLM/Condor</p></details> |
+| **[Hire Me or Not? Examining Language Model's Behavior with Occupation Attributes](http://arxiv.org/abs/2405.06687v3)** | 2025-01-21 | COLING 2025 |
+| **[ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability](http://arxiv.org/abs/2410.11414v2)** | 2025-01-21 | 23pages |
+| **[FOCUS: First Order Concentrated Updating Scheme](http://arxiv.org/abs/2501.12243v1)** | 2025-01-21 | 19 pages, 8 figures |
+| **[InsTALL: Context-aware Instructional Task Assistance with Multi-modal Large Language Models](http://arxiv.org/abs/2501.12231v1)** | 2025-01-21 |  |
+| **[CDW-CoT: Clustered Distance-Weighted Chain-of-Thoughts Reasoning](http://arxiv.org/abs/2501.12226v1)** | 2025-01-21 | aaai25(poster) |
+| **[Leveraging Large Language Models for Realizing Truly Intelligent User Interfaces](http://arxiv.org/abs/2501.12221v1)** | 2025-01-21 |  |
+
+## Reinforcement Learning
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model](http://arxiv.org/abs/2501.12368v1)** | 2025-01-21 | Tech Report |
+| **[ARM-IRL: Adaptive Resilience Metric Quantification Using Inverse Reinforcement Learning](http://arxiv.org/abs/2501.12362v1)** | 2025-01-21 | 13 pages, 15 figures |
+| **[RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression](http://arxiv.org/abs/2501.12216v1)** | 2025-01-21 |  |
+| **[A Search-to-Control Reinforcement Learning Based Framework for Quadrotor Local Planning in Dense Environments](http://arxiv.org/abs/2408.00275v3)** | 2025-01-21 |  |
+| **[Experience-replay Innovative Dynamics](http://arxiv.org/abs/2501.12199v1)** | 2025-01-21 |  |
+| **[Reinforcement Learning from Human Feedback without Reward Inference: Model-Free Algorithm and Instance-Dependent Analysis](http://arxiv.org/abs/2406.07455v2)** | 2025-01-21 |  |
+| **[Extend Adversarial Policy Against Neural Machine Translation via Unknown Token](http://arxiv.org/abs/2501.12183v1)** | 2025-01-21 | <details><summary>accep...</summary><p>accepted by CCMT 2024()</p></details> |
+| **[DNRSelect: Active Best View Selection for Deferred Neural Rendering](http://arxiv.org/abs/2501.12150v1)** | 2025-01-21 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, submitted to ICRA 2025</p></details> |
+| **[Tackling Uncertainties in Multi-Agent Reinforcement Learning through Integration of Agent Termination Dynamics](http://arxiv.org/abs/2501.12061v1)** | 2025-01-21 |  |
+| **[Memory Gym: Towards Endless Tasks to Benchmark Memory Capabilities of Agents](http://arxiv.org/abs/2309.17207v6)** | 2025-01-21 | <details><summary>40 pa...</summary><p>40 pages, 12 figures, 7 tables, accepted at JMLR</p></details> |
+| **[GLAM: Global-Local Variation Awareness in Mamba-based World Model](http://arxiv.org/abs/2501.11949v1)** | 2025-01-21 |  |
+| **[Learning to Hop for a Single-Legged Robot with Parallel Mechanism](http://arxiv.org/abs/2501.11945v1)** | 2025-01-21 |  |
+| **[AirPilot: Interpretable PPO-based DRL Auto-Tuned Nonlinear PID Drone Controller for Robust Autonomous Flights](http://arxiv.org/abs/2404.00204v5)** | 2025-01-21 | 9 pages, 20 figures |
+| **[Contrastive Representation for Interactive Recommendation](http://arxiv.org/abs/2412.18396v2)** | 2025-01-21 | <details><summary>AAAI-...</summary><p>AAAI-2025 Accepted paper</p></details> |
+| **[Group-Agent Reinforcement Learning with Heterogeneous Agents](http://arxiv.org/abs/2501.11818v1)** | 2025-01-21 |  |
 
