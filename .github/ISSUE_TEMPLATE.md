@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 31, 2025
+title: Latest 15 Papers - February 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ATTNChecker: Highly-Optimized Fault Tolerant Attention for Large Language Model Training](http://arxiv.org/abs/2410.11720v3)** | 2025-01-29 |  |
-| **[Large Language Models and Code Security: A Systematic Literature Review](http://arxiv.org/abs/2412.15004v2)** | 2025-01-29 |  |
-| **[DynEx: Dynamic Code Synthesis with Structured Design Exploration for Accelerated Exploratory Programming](http://arxiv.org/abs/2410.00400v2)** | 2025-01-29 | 27 pages, 9 figures |
-| **[Learning Beyond the Surface: How Far Can Continual Pre-Training with LoRA Enhance LLMs' Domain-Specific Insight Learning?](http://arxiv.org/abs/2501.17840v1)** | 2025-01-29 |  |
-| **[Generated Data with Fake Privacy: Hidden Dangers of Fine-tuning Large Language Models on Generated Data](http://arxiv.org/abs/2409.11423v2)** | 2025-01-29 | <details><summary>Accep...</summary><p>Accepted at 34th USENIX Security Symposium, 2025</p></details> |
-| **[Leveraging Multimodal LLM for Inspirational User Interface Search](http://arxiv.org/abs/2501.17799v1)** | 2025-01-29 | <details><summary>In Pr...</summary><p>In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '25)</p></details> |
-| **[BreezyVoice: Adapting TTS for Taiwanese Mandarin with Enhanced Polyphone Disambiguation -- Challenges and Insights](http://arxiv.org/abs/2501.17790v1)** | 2025-01-29 |  |
-| **[Large Language Models Can Solve Real-World Planning Rigorously with Formal Verification Tools](http://arxiv.org/abs/2404.11891v3)** | 2025-01-29 | <details><summary>50 pa...</summary><p>50 pages, 6 figures, 8 tables</p></details> |
-| **[AdditiveLLM: Large Language Models Predict Defects in Additive Manufacturing](http://arxiv.org/abs/2501.17784v1)** | 2025-01-29 |  |
-| **[2SSP: A Two-Stage Framework for Structured Pruning of LLMs](http://arxiv.org/abs/2501.17771v1)** | 2025-01-29 |  |
-| **[Hybrid Graphs for Table-and-Text based Question Answering using LLMs](http://arxiv.org/abs/2501.17767v1)** | 2025-01-29 | <details><summary>Accep...</summary><p>Accepted at NAACL 2025 Main Track</p></details> |
-| **[Prompt Obfuscation for Large Language Models](http://arxiv.org/abs/2409.11026v3)** | 2025-01-29 |  |
-| **[Online Prompt Selection for Program Synthesis](http://arxiv.org/abs/2501.05247v2)** | 2025-01-29 | <details><summary>Accep...</summary><p>Accepted at the 39th AAAI Conference on Artificial Intelligence (AAAI-25) Main Track</p></details> |
-| **[On the Partitioning of GPU Power among Multi-Instances](http://arxiv.org/abs/2501.17752v1)** | 2025-01-29 |  |
-| **[Early External Safety Testing of OpenAI's o3-mini: Insights from the Pre-Deployment Evaluation](http://arxiv.org/abs/2501.17749v1)** | 2025-01-29 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2501.17132</p></details> |
+| **[Thoughts Are All Over the Place: On the Underthinking of o1-Like LLMs](http://arxiv.org/abs/2501.18585v1)** | 2025-01-30 |  |
+| **[Token-Hungry, Yet Precise: DeepSeek R1 Highlights the Need for Multi-Step Reasoning Over Speed in MATH](http://arxiv.org/abs/2501.18576v1)** | 2025-01-30 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 1 table</p></details> |
+| **[BounTCHA: A CAPTCHA Utilizing Boundary Identification in AI-extended Videos](http://arxiv.org/abs/2501.18565v1)** | 2025-01-30 | 22 pages, 15 figures |
+| **[Verify with Caution: The Pitfalls of Relying on Imperfect Factuality Metrics](http://arxiv.org/abs/2501.14883v2)** | 2025-01-30 | <details><summary>v2: A...</summary><p>v2: Added Acknowledgements to funding sources and advisors</p></details> |
+| **[Semantic Web and Creative AI -- A Technical Report from ISWS 2023](http://arxiv.org/abs/2501.18542v1)** | 2025-01-30 | Technical Report |
+| **[Illusions of Relevance: Using Content Injection Attacks to Deceive Retrievers, Rerankers, and LLM Judges](http://arxiv.org/abs/2501.18536v1)** | 2025-01-30 |  |
+| **[In-Context Meta LoRA Generation](http://arxiv.org/abs/2501.17635v2)** | 2025-01-30 |  |
+| **[Differentially Private Steering for Large Language Model Alignment](http://arxiv.org/abs/2501.18532v1)** | 2025-01-30 | <details><summary>ICLR ...</summary><p>ICLR 2025; Code: https://github.com/UKPLab/iclr2025-psa</p></details> |
+| **[Towards Automated Penetration Testing: Introducing LLM Benchmark, Analysis, and Improvements](http://arxiv.org/abs/2410.17141v3)** | 2025-01-30 | <details><summary>Main ...</summary><p>Main Paper 1-9 pages, Supplementary Materials: 10-17, 13 figures</p></details> |
+| **[GroUSE: A Benchmark to Evaluate Evaluators in Grounded Question Answering](http://arxiv.org/abs/2409.06595v3)** | 2025-01-30 | <details><summary>Proce...</summary><p>Proceedings of the 31st International Conference on Computational Linguistics</p></details> |
+| **[LLaRA: Supercharging Robot Learning Data for Vision-Language Policy](http://arxiv.org/abs/2406.20095v3)** | 2025-01-30 | ICLR 2025 |
+| **[Learn from the Past: Language-conditioned Object Rearrangement with Large Language Models](http://arxiv.org/abs/2501.18516v1)** | 2025-01-30 |  |
+| **[Streaming DiLoCo with overlapping communication: Towards a Distributed Free Lunch](http://arxiv.org/abs/2501.18512v1)** | 2025-01-30 |  |
+| **[CLEAR: Cue Learning using Evolution for Accurate Recognition Applied to Sustainability Data Extraction](http://arxiv.org/abs/2501.18504v1)** | 2025-01-30 | <details><summary>9 pag...</summary><p>9 pages plus 2 pages of supplemental material</p></details> |
+| **[A Tool for In-depth Analysis of Code Execution Reasoning of Large Language Models](http://arxiv.org/abs/2501.18482v1)** | 2025-01-30 | 5 pages |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Coarse-to-fine Q-Network with Action Sequence for Data-Efficient Robot Learning](http://arxiv.org/abs/2411.12155v2)** | 2025-01-29 | <details><summary>15 Pa...</summary><p>15 Pages. Website: https://younggyo.me/cqn-as/</p></details> |
-| **[Tulu 3: Pushing Frontiers in Open Language Model Post-Training](http://arxiv.org/abs/2411.15124v3)** | 2025-01-29 | <details><summary>Added...</summary><p>Added Tulu 3 405B results and additional analyses</p></details> |
-| **[From Sparse to Dense: Toddler-inspired Reward Transition in Goal-Oriented Reinforcement Learning](http://arxiv.org/abs/2501.17842v1)** | 2025-01-29 | <details><summary>Exten...</summary><p>Extended version of AAAI 2024 paper: Unveiling the Significance of Toddler-Inspired Reward Transition in Goal-Oriented Reinforcement Learning. This manuscript is currently being prepared for journal submission</p></details> |
-| **[Look-ahead Search on Top of Policy Networks in Imperfect Information Games](http://arxiv.org/abs/2312.15220v3)** | 2025-01-29 |  |
-| **[Langevin Soft Actor-Critic: Efficient Exploration through Uncertainty-Driven Critic Learning](http://arxiv.org/abs/2501.17827v1)** | 2025-01-29 | <details><summary>Publi...</summary><p>Published in The Thirteenth International Conference on Learning Representations (ICLR) 2025. The first two authors contributed equally</p></details> |
-| **[Attention when you need](http://arxiv.org/abs/2501.07440v2)** | 2025-01-29 |  |
-| **[CLIP-Motion: Learning Reward Functions for Robotic Actions Using Consecutive Observations](http://arxiv.org/abs/2311.03485v2)** | 2025-01-29 |  |
-| **[FUSION: A Flexible Unified Simulator for Intelligent Optical Networking](http://arxiv.org/abs/2410.13999v2)** | 2025-01-29 |  |
-| **[CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization](http://arxiv.org/abs/2501.17667v1)** | 2025-01-29 | <details><summary>Accep...</summary><p>Accepted to USENIX Security Symposium 2025, Seattle, WA, USA. Source code is available at Github (https://github.com/NeuralSec/camp-robust-rl) and Zenodo (https://zenodo.org/records/14729675)</p></details> |
-| **[AdaSociety: An Adaptive Environment with Social Structures for Multi-Agent Decision-Making](http://arxiv.org/abs/2411.03865v5)** | 2025-01-29 | <details><summary>Accep...</summary><p>Accepted at NeurIPS D&B 2024</p></details> |
-| **[Accelerated DC loadflow solver for topology optimization](http://arxiv.org/abs/2501.17529v1)** | 2025-01-29 |  |
-| **[The impact of behavioral diversity in multi-agent reinforcement learning](http://arxiv.org/abs/2412.16244v2)** | 2025-01-29 |  |
-| **[Enhancing Text Generation in Joint NLG/NLU Learning Through Curriculum Learning, Semi-Supervised Training, and Advanced Optimization Techniques](http://arxiv.org/abs/2410.13498v2)** | 2025-01-29 | <details><summary>Dispa...</summary><p>Disparities in fundamental understandings about the article between the authors</p></details> |
-| **[Human-Aligned Skill Discovery: Balancing Behaviour Exploration and Alignment](http://arxiv.org/abs/2501.17431v1)** | 2025-01-29 | <details><summary>Accep...</summary><p>Accepted at the 24th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2025)</p></details> |
-| **[From Decision to Action in Surgical Autonomy: Multi-Modal Large Language Models for Robot-Assisted Blood Suction](http://arxiv.org/abs/2408.07806v2)** | 2025-01-29 | <details><summary>Accep...</summary><p>Accepted for Publication in IEEE Robotics and Automation Letters, 2025</p></details> |
+| **[Design and Validation of Learning Aware HMI For Learning-Enabled Increasingly Autonomous Systems](http://arxiv.org/abs/2501.18506v1)** | 2025-01-30 | <details><summary>Accep...</summary><p>Accepted for presentation at SysCon 2025</p></details> |
+| **[Curriculum-based Sample Efficient Reinforcement Learning for Robust Stabilization of a Quadrotor](http://arxiv.org/abs/2501.18490v1)** | 2025-01-30 | 8 pages, 7 figures |
+| **[xJailbreak: Representation Space Guided Reinforcement Learning for Interpretable LLM Jailbreaking](http://arxiv.org/abs/2501.16727v2)** | 2025-01-30 |  |
+| **[The Meta-Representation Hypothesis](http://arxiv.org/abs/2501.02481v2)** | 2025-01-30 |  |
+| **[CHIRPs: Change-Induced Regret Proxy metrics for Lifelong Reinforcement Learning](http://arxiv.org/abs/2409.03577v2)** | 2025-01-30 | 7 pages, 9 figures |
+| **[Model-Free RL Agents Demonstrate System 1-Like Intentionality](http://arxiv.org/abs/2501.18299v1)** | 2025-01-30 |  |
+| **[Neural Operator based Reinforcement Learning for Control of first-order PDEs with Spatially-Varying State Delay](http://arxiv.org/abs/2501.18201v1)** | 2025-01-30 | 6 Pages, 7 Figures |
+| **[Investigating Tax Evasion Emergence Using Dual Large Language Model and Deep Reinforcement Learning Powered Agent-based Simulation](http://arxiv.org/abs/2501.18177v1)** | 2025-01-30 |  |
+| **[On the Use of Immersive Digital Technologies for Designing and Operating UAVs](http://arxiv.org/abs/2407.16288v2)** | 2025-01-30 | 12 pages |
+| **[B3C: A Minimalist Approach to Offline Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2501.18138v1)** | 2025-01-30 |  |
+| **[Diverse Preference Optimization](http://arxiv.org/abs/2501.18101v1)** | 2025-01-30 |  |
+| **[ReFill: Reinforcement Learning for Fill-In Minimization](http://arxiv.org/abs/2501.16130v2)** | 2025-01-30 | <details><summary>appen...</summary><p>appendix added with remaining experiments</p></details> |
+| **[Reward Prediction Error Prioritisation in Experience Replay: The RPE-PER Method](http://arxiv.org/abs/2501.18093v1)** | 2025-01-30 | <details><summary>This ...</summary><p>This paper was accepted for presentation at the 2024 Australasian Conference on Robotics and Automation (ACRA 2024). It consists of 10 pages, including four figures and two tables</p></details> |
+| **[DIAL: Distribution-Informed Adaptive Learning of Multi-Task Constraints for Safety-Critical Systems](http://arxiv.org/abs/2501.18086v1)** | 2025-01-30 | <details><summary>16 pa...</summary><p>16 pages, 14 figures, 6 tables, submission to T-RO in 2024</p></details> |
+| **[An Attentive Graph Agent for Topology-Adaptive Cyber Defence](http://arxiv.org/abs/2501.14700v2)** | 2025-01-30 |  |
 
