@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 05, 2025
+title: Latest 15 Papers - February 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Can sparse autoencoders make sense of latent representations?](http://arxiv.org/abs/2410.11468v2)** | 2025-02-03 | 8 pages, 5 figures |
-| **[The ALCHEmist: Automated Labeling 500x CHEaper Than LLM Data Annotators](http://arxiv.org/abs/2407.11004v2)** | 2025-02-03 | <details><summary>NeurI...</summary><p>NeurIPS 2024 Spotlight Paper</p></details> |
-| **[Efficient Annotator Reliability Assessment and Sample Weighting for Knowledge-Based Misinformation Detection on Social Media](http://arxiv.org/abs/2410.14515v2)** | 2025-02-03 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 3 tables. Code available here: https://github.com/MiniEggz/ruc-misinfo; annotation framework available here: https://github.com/MiniEggz/EffiARA</p></details> |
-| **[STOP! Benchmarking Large Language Models with Sensitivity Testing on Offensive Progressions](http://arxiv.org/abs/2409.13843v2)** | 2025-02-03 | <details><summary>9 pag...</summary><p>9 pages (excluding references), accepted to EMNLP 2024 Main Conference</p></details> |
-| **[SELMA: A Speech-Enabled Language Model for Virtual Assistant Interactions](http://arxiv.org/abs/2501.19377v2)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted at ICASSP 2025</p></details> |
-| **[Trust-Oriented Adaptive Guardrails for Large Language Models](http://arxiv.org/abs/2408.08959v2)** | 2025-02-03 | Under Review |
-| **[Large Language Models are Advanced Anonymizers](http://arxiv.org/abs/2402.13846v2)** | 2025-02-03 | <details><summary>Inter...</summary><p>International Conference on Learning Representations (ICLR 2024)</p></details> |
-| **[Scaling Up Membership Inference: When and How Attacks Succeed on Large Language Models](http://arxiv.org/abs/2411.00154v2)** | 2025-02-03 | <details><summary>Findi...</summary><p>Findings of NAACL 2025. Our code is available at https://github.com/parameterlab/mia-scaling</p></details> |
-| **[Iris: Breaking GUI Complexity with Adaptive Focus and Self-Refining](http://arxiv.org/abs/2412.10342v2)** | 2025-02-03 |  |
-| **[Reinforced Prompt Personalization for Recommendation with Large Language Models](http://arxiv.org/abs/2407.17115v2)** | 2025-02-03 |  |
-| **[Disentangling Exploration of Large Language Models by Optimal Exploitation](http://arxiv.org/abs/2501.08925v2)** | 2025-02-03 |  |
-| **[The "Huh?" Button: Improving Understanding in Educational Videos with Large Language Models](http://arxiv.org/abs/2412.14201v2)** | 2025-02-03 | <details><summary>Prese...</summary><p>Presented at the 18th IEEE International Workshop on Multimedia Technologies for E-Learning (MTEL), 2024</p></details> |
-| **[COMPL-AI Framework: A Technical Interpretation and LLM Benchmarking Suite for the EU Artificial Intelligence Act](http://arxiv.org/abs/2410.07959v2)** | 2025-02-03 |  |
-| **[Improving the Robustness of Representation Misdirection for Large Language Model Unlearning](http://arxiv.org/abs/2501.19202v2)** | 2025-02-03 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 table</p></details> |
-| **[EmoDynamiX: Emotional Support Dialogue Strategy Prediction by Modelling MiXed Emotions and Discourse Dynamics](http://arxiv.org/abs/2408.08782v4)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025 main, long paper</p></details> |
+| **[A comparison of translation performance between DeepL and Supertext](http://arxiv.org/abs/2502.02577v1)** | 2025-02-04 |  |
+| **[Masala-CHAI: A Large-Scale SPICE Netlist Dataset for Analog Circuits by Harnessing AI](http://arxiv.org/abs/2411.14299v3)** | 2025-02-04 |  |
+| **[Are Language Models Up to Sequential Optimization Problems? From Evaluation to a Hegelian-Inspired Enhancement](http://arxiv.org/abs/2502.02573v1)** | 2025-02-04 |  |
+| **[Learning the RoPEs: Better 2D and 3D Position Encodings with STRING](http://arxiv.org/abs/2502.02562v1)** | 2025-02-04 | <details><summary>Video...</summary><p>Videos of STRING-based robotics controllers can be found here: https://sites.google.com/view/string-robotics</p></details> |
+| **[LLMs for Generation of Architectural Components: An Exploratory Empirical Study in the Serverless World](http://arxiv.org/abs/2502.02539v1)** | 2025-02-04 | <details><summary>Accep...</summary><p>Accepted to IEEE International Conference on Software Architecture (ICSA) 2025 Main Track (https://conf.researchr.org/home/icsa-2025)</p></details> |
+| **[Adaptive Self-improvement LLM Agentic System for ML Library Development](http://arxiv.org/abs/2502.02534v1)** | 2025-02-04 |  |
+| **[Multi-Agent Design: Optimizing Agents with Better Prompts and Topologies](http://arxiv.org/abs/2502.02533v1)** | 2025-02-04 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 1 table (30 pages, 9 figures, 5 tables including references and appendices)</p></details> |
+| **[Exploring Empty Spaces: Human-in-the-Loop Data Augmentation](http://arxiv.org/abs/2410.01088v2)** | 2025-02-04 | <details><summary>Code:...</summary><p>Code: https://github.com/apple/ml-interactive-data-augmentation/</p></details> |
+| **[Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search](http://arxiv.org/abs/2502.02508v1)** | 2025-02-04 |  |
+| **[ChartMoE: Mixture of Expert Connector for Advanced Chart Understanding](http://arxiv.org/abs/2409.03277v2)** | 2025-02-04 |  |
+| **[EasySpec: Layer-Parallel Speculative Decoding for Efficient Multi-GPU Utilization](http://arxiv.org/abs/2502.02493v1)** | 2025-02-04 |  |
+| **[Multilingual Machine Translation with Open Large Language Models at Practical Scale: An Empirical Study](http://arxiv.org/abs/2502.02481v1)** | 2025-02-04 | <details><summary>Accep...</summary><p>Accept to NAACL2025 Main Conference</p></details> |
+| **[Internal Activation as the Polar Star for Steering Unsafe LLM Behavior](http://arxiv.org/abs/2502.01042v2)** | 2025-02-04 |  |
+| **[SAISA: Towards Multimodal Large Language Models with Both Training and Inference Efficiency](http://arxiv.org/abs/2502.02458v1)** | 2025-02-04 |  |
+| **[The Energy Loss Phenomenon in RLHF: A New Perspective on Mitigating Reward Hacking](http://arxiv.org/abs/2501.19358v2)** | 2025-02-04 | 28 pages, 21 figures |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mitigating Information Loss in Tree-Based Reinforcement Learning via Direct Optimization](http://arxiv.org/abs/2408.08761v3)** | 2025-02-03 |  |
-| **[RILe: Reinforced Imitation Learning](http://arxiv.org/abs/2406.08472v3)** | 2025-02-03 |  |
-| **[Divide and Conquer: Provably Unveiling the Pareto Front with Multi-Objective Reinforcement Learning](http://arxiv.org/abs/2402.07182v2)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted at AAMAS 2025</p></details> |
-| **[Dynamic Learning Rate for Deep Reinforcement Learning: A Bandit Approach](http://arxiv.org/abs/2410.12598v2)** | 2025-02-03 |  |
-| **[Deep Exploration with PAC-Bayes](http://arxiv.org/abs/2402.03055v3)** | 2025-02-03 | <details><summary>28 pa...</summary><p>28 pages, 6 figures, 9 tables</p></details> |
-| **[Combinatorial Rising Bandit](http://arxiv.org/abs/2412.00798v2)** | 2025-02-03 |  |
-| **[Reinforcement Learning with Model Predictive Control for Highway Ramp Metering](http://arxiv.org/abs/2311.08820v4)** | 2025-02-03 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, 3 tables, submitted to IEEE Transactions on Intelligent Transportation Systems</p></details> |
-| **[SHARPIE: A Modular Framework for Reinforcement Learning and Human-AI Interaction Experiments](http://arxiv.org/abs/2501.19245v2)** | 2025-02-03 |  |
-| **[Generalized Gaussian Temporal Difference Error for Uncertainty-aware Reinforcement Learning](http://arxiv.org/abs/2408.02295v3)** | 2025-02-03 |  |
-| **[GUIDEd Agents: Enhancing Navigation Policies through Task-Specific Uncertainty Abstraction in Localization-Limited Environments](http://arxiv.org/abs/2410.15178v3)** | 2025-02-03 |  |
-| **[Traffic expertise meets residual RL: Knowledge-informed model-based residual reinforcement learning for CAV trajectory control](http://arxiv.org/abs/2408.17380v2)** | 2025-02-03 | <details><summary>Accep...</summary><p>Accepted by Communications in Transportation Research</p></details> |
-| **[Scrutinize What We Ignore: Reining In Task Representation Shift Of Context-Based Offline Meta Reinforcement Learning](http://arxiv.org/abs/2405.12001v4)** | 2025-02-03 | Accept at ICLR 2025 |
-| **[B3C: A Minimalist Approach to Offline Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2501.18138v2)** | 2025-02-02 |  |
-| **[Predictable Reinforcement Learning Dynamics through Entropy Rate Minimization](http://arxiv.org/abs/2311.18703v4)** | 2025-02-02 |  |
-| **[Task-agnostic Pre-training and Task-guided Fine-tuning for Versatile Diffusion Planner](http://arxiv.org/abs/2409.19949v2)** | 2025-02-02 |  |
+| **[Flow Q-Learning](http://arxiv.org/abs/2502.02538v1)** | 2025-02-04 |  |
+| **[Brief analysis of DeepSeek R1 and it's implications for Generative AI](http://arxiv.org/abs/2502.02523v1)** | 2025-02-04 |  |
+| **[Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search](http://arxiv.org/abs/2502.02508v1)** | 2025-02-04 |  |
+| **[The Energy Loss Phenomenon in RLHF: A New Perspective on Mitigating Reward Hacking](http://arxiv.org/abs/2501.19358v2)** | 2025-02-04 | 28 pages, 21 figures |
+| **[Is poisoning a real threat to LLM alignment? Maybe more so than you think](http://arxiv.org/abs/2406.12091v3)** | 2025-02-04 |  |
+| **[Towards Fast Graph Generation via Autoregressive Noisy Filtration Modeling](http://arxiv.org/abs/2502.02415v1)** | 2025-02-04 | <details><summary>32 pa...</summary><p>32 pages, 27 tables, 6 figures</p></details> |
+| **[A Provably Efficient Option-Based Algorithm for both High-Level and Low-Level Learning](http://arxiv.org/abs/2406.15124v2)** | 2025-02-04 |  |
+| **[Achieving Hiding and Smart Anti-Jamming Communication: A Parallel DRL Approach against Moving Reactive Jammer](http://arxiv.org/abs/2502.02385v1)** | 2025-02-04 |  |
+| **[Circular Microalgae-Based Carbon Control for Net Zero](http://arxiv.org/abs/2502.02382v1)** | 2025-02-04 | To be submitted |
+| **[Reinforcement Learning for Long-Horizon Interactive LLM Agents](http://arxiv.org/abs/2502.01600v2)** | 2025-02-04 |  |
+| **[Coreset-Based Task Selection for Sample-Efficient Meta-Reinforcement Learning](http://arxiv.org/abs/2502.02332v1)** | 2025-02-04 |  |
+| **[Reinfier and Reintrainer: Verification and Interpretation-Driven Safe Deep Reinforcement Learning Frameworks](http://arxiv.org/abs/2410.15127v2)** | 2025-02-04 |  |
+| **[Policy-Guided Causal State Representation for Offline Reinforcement Learning Recommendation](http://arxiv.org/abs/2502.02327v1)** | 2025-02-04 |  |
+| **[DIME:Diffusion-Based Maximum Entropy Reinforcement Learning](http://arxiv.org/abs/2502.02316v1)** | 2025-02-04 | <details><summary>8 pag...</summary><p>8 pages main text, 18 pages all included</p></details> |
+| **[MAGNNET: Multi-Agent Graph Neural Network-based Efficient Task Allocation for Autonomous Vehicles with Deep Reinforcement Learning](http://arxiv.org/abs/2502.02311v1)** | 2025-02-04 | <details><summary>Submi...</summary><p>Submitted to IEEE Intelligent Vehicle Symposium (2025)</p></details> |
 
