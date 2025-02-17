@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2025
+title: Latest 15 Papers - February 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,29 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency](http://arxiv.org/abs/2502.09621v1)** | 2025-02-13 | <details><summary>Proje...</summary><p>Project Page: https://mmecot.github.io/</p></details> |
-| **[Exploring the Potential of Encoder-free Architectures in 3D LMMs](http://arxiv.org/abs/2502.09620v1)** | 2025-02-13 | <details><summary>The c...</summary><p>The code is released at https://github.com/Ivan-Tang-3D/ENEL</p></details> |
-| **[Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models](http://arxiv.org/abs/2501.13904v3)** | 2025-02-13 |  |
-| **[Human-LLM Coevolution: Evidence from Academic Writing](http://arxiv.org/abs/2502.09606v1)** | 2025-02-13 |  |
-| **[SelfCite: Self-Supervised Alignment for Context Attribution in Large Language Models](http://arxiv.org/abs/2502.09604v1)** | 2025-02-13 | <details><summary>Imple...</summary><p>Implementation available at https://github.com/voidism/SelfCite</p></details> |
-| **[Do LLMs Recognize Your Preferences? Evaluating Personalized Preference Following in LLMs](http://arxiv.org/abs/2502.09597v1)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025 as oral presentation. Code and data at: https://prefeval.github.io/</p></details> |
-| **[KIMAs: A Configurable Knowledge Integrated Multi-Agent System](http://arxiv.org/abs/2502.09596v1)** | 2025-02-13 |  |
-| **[Logical forms complement probability in understanding language model (and human) performance](http://arxiv.org/abs/2502.09589v1)** | 2025-02-13 | Preprint |
-| **[Polymind: Parallel Visual Diagramming with Large Language Models to Support Prewriting Through Microtasks](http://arxiv.org/abs/2502.09577v1)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted to CSCW 2025 with minor revisions</p></details> |
-| **[Zero-shot generation of synthetic neurosurgical data with large language models](http://arxiv.org/abs/2502.09566v1)** | 2025-02-13 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 4 tables</p></details> |
-| **[MDCrow: Automating Molecular Dynamics Workflows with Large Language Models](http://arxiv.org/abs/2502.09565v1)** | 2025-02-13 |  |
-| **[Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos](http://arxiv.org/abs/2501.04001v2)** | 2025-02-13 | <details><summary>Proje...</summary><p>Project page: https://lxtgh.github.io/project/sa2va</p></details> |
-| **[EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents](http://arxiv.org/abs/2502.09560v1)** | 2025-02-13 | 51 pages |
-| **[TransMLA: Multi-Head Latent Attention Is All You Need](http://arxiv.org/abs/2502.07864v2)** | 2025-02-13 | <details><summary>https...</summary><p>https://github.com/fxmeng/TransMLA</p></details> |
-| **[Hello Again! LLM-powered Personalized Agent for Long-term Dialogue](http://arxiv.org/abs/2406.05925v2)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025</p></details> |
+| **[MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](http://arxiv.org/abs/2502.10391v1)** | 2025-02-14 | <details><summary>Proje...</summary><p>Project Page: https://mm-rlhf.github.io/</p></details> |
+| **[Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction](http://arxiv.org/abs/2502.10388v1)** | 2025-02-14 |  |
+| **[An Interactive Framework for Implementing Privacy-Preserving Federated Learning: Experiments on Large Language Models](http://arxiv.org/abs/2502.08008v2)** | 2025-02-14 |  |
+| **[Enhancing Multilingual LLM Pretraining with Model-Based Data Selection](http://arxiv.org/abs/2502.10361v1)** | 2025-02-14 |  |
+| **[The Graph's Apprentice: Teaching an LLM Low Level Knowledge for Circuit Quality Estimation](http://arxiv.org/abs/2411.00843v2)** | 2025-02-14 |  |
+| **[MathGAP: Out-of-Distribution Evaluation on Problems with Arbitrarily Complex Proofs](http://arxiv.org/abs/2410.13502v3)** | 2025-02-14 | ICLR 2025 |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DexTrack: Towards Generalizable Neural Tracking Control for Dexterous Manipulation from Human References](http://arxiv.org/abs/2502.09614v1)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025. Website: https://meowuu7.github.io/DexTrack/ Code: https://github.com/Meowuu7/DexTrack/ Video: https://youtu.be/zru1Z-DaiWE</p></details> |
-| **[OGBench: Benchmarking Offline Goal-Conditioned RL](http://arxiv.org/abs/2410.20092v2)** | 2025-02-13 | ICLR 2025 |
-| **[Coupled Rendezvous and Docking Maneuver control of satellite using Reinforcement learning-based Adaptive Fixed-Time Sliding Mode Controller](http://arxiv.org/abs/2502.09517v1)** | 2025-02-13 |  |
-| **[Variable Stiffness for Robust Locomotion through Reinforcement Learning](http://arxiv.org/abs/2502.09436v1)** | 2025-02-13 | <details><summary>submi...</summary><p>submitted to IFAC Joint Symposia on Mechatronics & Robotics</p></details> |
-| **[Sable: a Performant, Efficient and Scalable Sequence Model for MARL](http://arxiv.org/abs/2410.01706v2)** | 2025-02-13 |  |
-| **[A Survey of Reinforcement Learning for Optimization in Automation](http://arxiv.org/abs/2502.09417v1)** | 2025-02-13 | <details><summary>8 pag...</summary><p>8 pages, 4 tables, and 1 figure. Accepted at IEEE 20th International Conference on Automation Science and Engineering (CASE) 2024</p></details> |
-| **[Generalizable Reinforcement Learning with Biologically Inspired Hyperdimensional Occupancy Grid Maps for Exploration and Goal-Directed Path Planning](http://arxiv.org/abs/2502.09393v1)** | 2025-02-13 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 3 tables</p></details> |
-| **[Machine learning for modelling unstructured grid data in computational physics: a review](http://arxiv.org/abs/2502.09346v1)** | 2025-02-13 |  |
-| **[Revisiting Topological Interference Management: A Learning-to-Code on Graphs Perspective](http://arxiv.org/abs/2502.09344v1)** | 2025-02-13 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2305.07186</p></details> |
-| **[Convex Is Back: Solving Belief MDPs With Convexity-Informed Deep Reinforcement Learning](http://arxiv.org/abs/2502.09298v1)** | 2025-02-13 |  |
-| **[Statistical Inference for Temporal Difference Learning with Linear Function Approximation](http://arxiv.org/abs/2410.16106v2)** | 2025-02-13 |  |
-| **[Geometry-aware RL for Manipulation of Varying Shapes and Deformable Objects](http://arxiv.org/abs/2502.07005v3)** | 2025-02-13 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025 (Oral)</p></details> |
-| **[Progressive-Resolution Policy Distillation: Leveraging Coarse-Resolution Simulations for Time-Efficient Fine-Resolution Policy Learning](http://arxiv.org/abs/2412.07477v2)** | 2025-02-13 |  |
-| **[Autonomous Task Completion Based on Goal-directed Answer Set Programming](http://arxiv.org/abs/2502.09208v1)** | 2025-02-13 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2024, arXiv:2502.08453</p></details> |
-| **[Model-free reinforcement learning with noisy actions for automated experimental control in optics](http://arxiv.org/abs/2405.15421v2)** | 2025-02-13 | <details><summary>10 pa...</summary><p>10 pages + 12 pages appendices, 2 + 12 figures</p></details> |
+| **[BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds](http://arxiv.org/abs/2502.10363v1)** | 2025-02-14 | <details><summary>Proje...</summary><p>Project website: https://why618188.github.io/beamdojo</p></details> |
+| **[Reinforcement Learning in Strategy-Based and Atari Games: A Review of Google DeepMinds Innovations](http://arxiv.org/abs/2502.10303v1)** | 2025-02-14 |  |
+| **[A Critical Look At Tokenwise Reward-Guided Text Generation](http://arxiv.org/abs/2406.07780v2)** | 2025-02-14 |  |
+| **[Spatial-aware decision-making with ring attractors in reinforcement learning systems](http://arxiv.org/abs/2410.03119v2)** | 2025-02-14 |  |
+| **[Learning to Solve the Min-Max Mixed-Shelves Picker-Routing Problem via Hierarchical and Parallel Decoding](http://arxiv.org/abs/2502.10233v1)** | 2025-02-14 |  |
+| **[Dynamic Reinforcement Learning for Actors](http://arxiv.org/abs/2502.10200v1)** | 2025-02-14 | 31 pages, 20 figures |
+| **[Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving](http://arxiv.org/abs/2502.07640v2)** | 2025-02-14 |  |
+| **[Reinforcement Learning based Constrained Optimal Control: an Interpretable Reward Design](http://arxiv.org/abs/2502.10187v1)** | 2025-02-14 |  |
+| **[OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code](http://arxiv.org/abs/2405.15568v3)** | 2025-02-14 |  |
+| **[Combinatorial Reinforcement Learning with Preference Feedback](http://arxiv.org/abs/2502.10158v1)** | 2025-02-14 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[MonoForce: Learnable Image-conditioned Physics Engine](http://arxiv.org/abs/2502.10156v1)** | 2025-02-14 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Robotics (T-RO), 2025. Code: https://github.com/ctu-vras/monoforce</p></details> |
+| **[Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2502.02844v2)** | 2025-02-14 | <details><summary>8 pag...</summary><p>8 pages main, 21 pages appendix with reference. Submitted to ICML 2025</p></details> |
+| **[Cooperative Multi-Agent Planning with Adaptive Skill Synthesis](http://arxiv.org/abs/2502.10148v1)** | 2025-02-14 |  |
+| **[Provably Efficient RL under Episode-Wise Safety in Linear CMDPs](http://arxiv.org/abs/2502.10138v1)** | 2025-02-14 |  |
+| **[Causal Information Prioritization for Efficient Reinforcement Learning](http://arxiv.org/abs/2502.10097v1)** | 2025-02-14 |  |
 
