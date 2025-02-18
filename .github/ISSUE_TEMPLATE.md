@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 18, 2025
+title: Latest 15 Papers - February 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,29 +7,38 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MM-RLHF: The Next Step Forward in Multimodal LLM Alignment](http://arxiv.org/abs/2502.10391v1)** | 2025-02-14 | <details><summary>Proje...</summary><p>Project Page: https://mm-rlhf.github.io/</p></details> |
-| **[Aspect-Oriented Summarization for Psychiatric Short-Term Readmission Prediction](http://arxiv.org/abs/2502.10388v1)** | 2025-02-14 |  |
-| **[An Interactive Framework for Implementing Privacy-Preserving Federated Learning: Experiments on Large Language Models](http://arxiv.org/abs/2502.08008v2)** | 2025-02-14 |  |
-| **[Enhancing Multilingual LLM Pretraining with Model-Based Data Selection](http://arxiv.org/abs/2502.10361v1)** | 2025-02-14 |  |
-| **[The Graph's Apprentice: Teaching an LLM Low Level Knowledge for Circuit Quality Estimation](http://arxiv.org/abs/2411.00843v2)** | 2025-02-14 |  |
-| **[MathGAP: Out-of-Distribution Evaluation on Problems with Arbitrarily Complex Proofs](http://arxiv.org/abs/2410.13502v3)** | 2025-02-14 | ICLR 2025 |
+| **[Idiosyncrasies in Large Language Models](http://arxiv.org/abs/2502.12150v1)** | 2025-02-17 | <details><summary>Websi...</summary><p>Website at https://eric-mingjie.github.io/llm-idiosyncrasies/index.html</p></details> |
+| **[HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation](http://arxiv.org/abs/2502.12148v1)** | 2025-02-17 | <details><summary>Code:...</summary><p>Code: https://github.com/Gen-Verse/HermesFlow</p></details> |
+| **[Logical forms complement probability in understanding language model (and human) performance](http://arxiv.org/abs/2502.09589v2)** | 2025-02-17 | Preprint |
+| **[Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control](http://arxiv.org/abs/2502.12145v1)** | 2025-02-17 |  |
+| **[Small Models Struggle to Learn from Strong Reasoners](http://arxiv.org/abs/2502.12143v1)** | 2025-02-17 |  |
+| **[SoftCoT: Soft Chain-of-Thought for Efficient Reasoning with LLMs](http://arxiv.org/abs/2502.12134v1)** | 2025-02-17 |  |
+| **[OmniEval: An Omnidirectional and Automatic RAG Evaluation Benchmark in Financial Domain](http://arxiv.org/abs/2412.13018v2)** | 2025-02-17 |  |
+| **[Transformer Dynamics: A neuroscientific approach to interpretability of large language models](http://arxiv.org/abs/2502.12131v1)** | 2025-02-17 |  |
+| **[Scaling Autonomous Agents via Automatic Reward Modeling And Planning](http://arxiv.org/abs/2502.12130v1)** | 2025-02-17 | <details><summary>ICLR2...</summary><p>ICLR2025, Project page: https://armap-agent.github.io</p></details> |
+| **[Human-LLM Coevolution: Evidence from Academic Writing](http://arxiv.org/abs/2502.09606v2)** | 2025-02-17 |  |
+| **[The Point of View of a Sentiment: Towards Clinician Bias Detection in Psychiatric Notes](http://arxiv.org/abs/2405.20582v2)** | 2025-02-17 | <details><summary>Oral ...</summary><p>Oral presentation at NAACL 2024 Queer in AI Workshop</p></details> |
+| **[Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA](http://arxiv.org/abs/2502.12122v1)** | 2025-02-17 |  |
+| **[LLMs on the Line: Data Determines Loss-to-Loss Scaling Laws](http://arxiv.org/abs/2502.12120v1)** | 2025-02-17 |  |
+| **[PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection](http://arxiv.org/abs/2502.12119v1)** | 2025-02-17 |  |
+| **[Improving Acoustic Side-Channel Attacks on Keyboards Using Transformers and Large Language Models](http://arxiv.org/abs/2502.09782v2)** | 2025-02-17 | <details><summary>We wi...</summary><p>We will reflect comments from the reviewers and re-submit</p></details> |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds](http://arxiv.org/abs/2502.10363v1)** | 2025-02-14 | <details><summary>Proje...</summary><p>Project website: https://why618188.github.io/beamdojo</p></details> |
-| **[Reinforcement Learning in Strategy-Based and Atari Games: A Review of Google DeepMinds Innovations](http://arxiv.org/abs/2502.10303v1)** | 2025-02-14 |  |
-| **[A Critical Look At Tokenwise Reward-Guided Text Generation](http://arxiv.org/abs/2406.07780v2)** | 2025-02-14 |  |
-| **[Spatial-aware decision-making with ring attractors in reinforcement learning systems](http://arxiv.org/abs/2410.03119v2)** | 2025-02-14 |  |
-| **[Learning to Solve the Min-Max Mixed-Shelves Picker-Routing Problem via Hierarchical and Parallel Decoding](http://arxiv.org/abs/2502.10233v1)** | 2025-02-14 |  |
-| **[Dynamic Reinforcement Learning for Actors](http://arxiv.org/abs/2502.10200v1)** | 2025-02-14 | 31 pages, 20 figures |
-| **[Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving](http://arxiv.org/abs/2502.07640v2)** | 2025-02-14 |  |
-| **[Reinforcement Learning based Constrained Optimal Control: an Interpretable Reward Design](http://arxiv.org/abs/2502.10187v1)** | 2025-02-14 |  |
-| **[OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code](http://arxiv.org/abs/2405.15568v3)** | 2025-02-14 |  |
-| **[Combinatorial Reinforcement Learning with Preference Feedback](http://arxiv.org/abs/2502.10158v1)** | 2025-02-14 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[MonoForce: Learnable Image-conditioned Physics Engine](http://arxiv.org/abs/2502.10156v1)** | 2025-02-14 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Robotics (T-RO), 2025. Code: https://github.com/ctu-vras/monoforce</p></details> |
-| **[Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2502.02844v2)** | 2025-02-14 | <details><summary>8 pag...</summary><p>8 pages main, 21 pages appendix with reference. Submitted to ICML 2025</p></details> |
-| **[Cooperative Multi-Agent Planning with Adaptive Skill Synthesis](http://arxiv.org/abs/2502.10148v1)** | 2025-02-14 |  |
-| **[Provably Efficient RL under Episode-Wise Safety in Linear CMDPs](http://arxiv.org/abs/2502.10138v1)** | 2025-02-14 |  |
-| **[Causal Information Prioritization for Efficient Reinforcement Learning](http://arxiv.org/abs/2502.10097v1)** | 2025-02-14 |  |
+| **[Scaling Test-Time Compute Without Verification or RL is Suboptimal](http://arxiv.org/abs/2502.12118v1)** | 2025-02-17 |  |
+| **[Unhackable Temporal Rewarding for Scalable Video MLLMs](http://arxiv.org/abs/2502.12081v1)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted by ICLR2025. Project Page: https://ahnsun.github.io/UTR/</p></details> |
+| **[How to Upscale Neural Networks with Scaling Law? A Survey and Practical Guidelines](http://arxiv.org/abs/2502.12051v1)** | 2025-02-17 | <details><summary>20 pa...</summary><p>20 pages, 8 tables, 4 figures</p></details> |
+| **[Theoretical Barriers in Bellman-Based Reinforcement Learning](http://arxiv.org/abs/2502.11968v1)** | 2025-02-17 |  |
+| **[Massively Scaling Explicit Policy-conditioned Value Functions](http://arxiv.org/abs/2502.11949v1)** | 2025-02-17 |  |
+| **[FitLight: Federated Imitation Learning for Plug-and-Play Autonomous Traffic Signal Control](http://arxiv.org/abs/2502.11937v1)** | 2025-02-17 |  |
+| **[VLP: Vision-Language Preference Learning for Embodied Manipulation](http://arxiv.org/abs/2502.11918v1)** | 2025-02-17 |  |
+| **[CAMEL: Continuous Action Masking Enabled by Large Language Models for Reinforcement Learning](http://arxiv.org/abs/2502.11896v1)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted at RLDM 2025</p></details> |
+| **[Does Knowledge About Perceptual Uncertainty Help an Agent in Automated Driving?](http://arxiv.org/abs/2502.11864v1)** | 2025-02-17 | 8 pages, 9 figures |
+| **[I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning](http://arxiv.org/abs/2405.08726v2)** | 2025-02-17 |  |
+| **[Intersectional Fairness in Reinforcement Learning with Large State and Constraint Spaces](http://arxiv.org/abs/2502.11828v1)** | 2025-02-17 |  |
+| **[Kernel-Based Distributed Q-Learning: A Scalable Reinforcement Learning Approach for Dynamic Treatment Regimes](http://arxiv.org/abs/2302.10434v2)** | 2025-02-17 |  |
+| **[Text2Chart31: Instruction Tuning for Chart Generation with Automatic Feedback](http://arxiv.org/abs/2410.04064v2)** | 2025-02-17 | <details><summary>EMNLP...</summary><p>EMNLP 2024 Main Oral. Code and dataset are released at https://github.com/fatemehpesaran310/Text2Chart31</p></details> |
+| **[Plant in Cupboard, Orange on Table, Book on Shelf. Benchmarking Practical Reasoning and Situation Modelling in a Text-Simulated Situated Environment](http://arxiv.org/abs/2502.11733v1)** | 2025-02-17 |  |
+| **[Efficient Off-Policy Learning for High-Dimensional Action Spaces](http://arxiv.org/abs/2403.04453v3)** | 2025-02-17 | <details><summary>Accep...</summary><p>Accepted at ICLR 2025</p></details> |
 
