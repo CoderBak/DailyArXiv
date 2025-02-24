@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 24, 2025
+title: Latest 15 Papers - February 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,38 +7,38 @@ labels: documentation
 ## Large Language Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention](http://arxiv.org/abs/2502.14866v1)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted by MLSys 2025. Code available at: https://github.com/mit-han-lab/omniserve</p></details> |
-| **[Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning](http://arxiv.org/abs/2502.14860v1)** | 2025-02-20 | <details><summary>22 pa...</summary><p>22 pages, 8 figures, 8 tables</p></details> |
-| **[FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling](http://arxiv.org/abs/2502.14856v1)** | 2025-02-20 |  |
-| **[Prompt-to-Leaderboard](http://arxiv.org/abs/2502.14855v1)** | 2025-02-20 |  |
-| **[GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks](http://arxiv.org/abs/2502.14848v1)** | 2025-02-20 | <details><summary>8 pag...</summary><p>8 pages of main text, 38 pages of appendices</p></details> |
-| **[Red-Teaming LLM Multi-Agent Systems via Communication Attacks](http://arxiv.org/abs/2502.14847v1)** | 2025-02-20 |  |
-| **[Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation](http://arxiv.org/abs/2502.14846v1)** | 2025-02-20 | <details><summary>20 pa...</summary><p>20 pages, 19 figures, 9 tables, website: https://yueyang1996.github.io/cosyn/</p></details> |
-| **[Revealing and Mitigating Over-Attention in Knowledge Editing](http://arxiv.org/abs/2502.14838v1)** | 2025-02-20 |  |
-| **[Towards Efficient Optimizer Design for LLM via Structured Fisher Approximation with a Low-Rank Extension](http://arxiv.org/abs/2502.07752v2)** | 2025-02-20 |  |
-| **[MATS: An Audio Language Model under Text-only Supervision](http://arxiv.org/abs/2502.13433v2)** | 2025-02-20 | 19 pages,11 figures |
-| **[Middle-Layer Representation Alignment for Cross-Lingual Transfer in Fine-Tuned LLMs](http://arxiv.org/abs/2502.14830v1)** | 2025-02-20 |  |
-| **[A Survey of Model Architectures in Information Retrieval](http://arxiv.org/abs/2502.14822v1)** | 2025-02-20 |  |
-| **[Large Language Model Confidence Estimation via Black-Box Access](http://arxiv.org/abs/2406.04370v3)** | 2025-02-20 |  |
-| **[eC-Tab2Text: Aspect-Based Text Generation from e-Commerce Product Tables](http://arxiv.org/abs/2502.14820v1)** | 2025-02-20 | <details><summary>NAACL...</summary><p>NAACL 2025 (Industry Track)</p></details> |
-| **[Dynamic Low-Rank Sparse Adaptation for Large Language Models](http://arxiv.org/abs/2502.14816v1)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted to ICLR 2025</p></details> |
+| **[SWAN: SGD with Normalization and Whitening Enables Stateless LLM Training](http://arxiv.org/abs/2412.13148v3)** | 2025-02-21 | <details><summary>In v2...</summary><p>In v2 we have revised the related work, added more comprehensive citations, and clarified our key contributions</p></details> |
+| **[Privacy Ripple Effects from Adding or Removing Personal Information in Language Model Training](http://arxiv.org/abs/2502.15680v1)** | 2025-02-21 | 23 pages, 26 figures |
+| **[FLEKE: Federated Locate-then-Edit Knowledge Editing](http://arxiv.org/abs/2502.15677v1)** | 2025-02-21 |  |
+| **[AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind](http://arxiv.org/abs/2502.15676v1)** | 2025-02-21 | <details><summary>23 pa...</summary><p>23 pages, 6 figures, 11 tables. Website at https://chuanyangjin.com/AutoToM/</p></details> |
+| **[Schema Augmentation for Zero-Shot Domain Adaptation in Dialogue State Tracking](http://arxiv.org/abs/2411.00150v2)** | 2025-02-21 | <details><summary>short...</summary><p>short paper (4 pages) submitted to ARR</p></details> |
+| **[Almost AI, Almost Human: The Challenge of Detecting AI-Polished Writing](http://arxiv.org/abs/2502.15666v1)** | 2025-02-21 | 17 pages, 17 figures |
+| **[ELMI: Interactive and Intelligent Sign Language Translation of Lyrics for Song Signing](http://arxiv.org/abs/2409.09760v3)** | 2025-02-21 | <details><summary>17 pa...</summary><p>17 pages excluding reference and appendix. Accepted at ACM CHI 2025. https://naver-ai.github.io/elmi</p></details> |
+| **[Adapting Large Language Models for Character-based Augmentative and Alternative Communication](http://arxiv.org/abs/2501.10582v2)** | 2025-02-21 |  |
+| **[Machine-generated text detection prevents language model collapse](http://arxiv.org/abs/2502.15654v1)** | 2025-02-21 |  |
+| **[Empowering LLMs with Logical Reasoning: A Comprehensive Survey](http://arxiv.org/abs/2502.15652v1)** | 2025-02-21 |  |
+| **[SWEPO: Simultaneous Weighted Preference Optimization for Group Contrastive Alignment](http://arxiv.org/abs/2412.04628v3)** | 2025-02-21 |  |
+| **[Steering into New Embedding Spaces: Analyzing Cross-Lingual Alignment Induced by Model Interventions in Multilingual Language Models](http://arxiv.org/abs/2502.15639v1)** | 2025-02-21 | 34 pages |
+| **[The Relationship Between Reasoning and Performance in Large Language Models -- o3 (mini) Thinks Harder, Not Longer](http://arxiv.org/abs/2502.15631v1)** | 2025-02-21 | 19 pages, 11 figures |
+| **[Towards Automated Penetration Testing: Introducing LLM Benchmark, Analysis, and Improvements](http://arxiv.org/abs/2410.17141v4)** | 2025-02-21 | <details><summary>Main ...</summary><p>Main Paper 1-9 pages, Supplementary Materials: 10-17, 13 figures</p></details> |
+| **[Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing](http://arxiv.org/abs/2502.15618v1)** | 2025-02-21 | ICLR 2025 |
 
 ## Reinforcement Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Generating $π$-Functional Molecules Using STGG+ with Active Learning](http://arxiv.org/abs/2502.14842v1)** | 2025-02-20 | <details><summary>Code:...</summary><p>Code: https://github.com/SamsungSAILMontreal/STGG-AL</p></details> |
-| **[Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models](http://arxiv.org/abs/2502.14819v1)** | 2025-02-20 | <details><summary>Proje...</summary><p>Project web page: https://latent-planning.github.io/</p></details> |
-| **[Addressing Rotational Learning Dynamics in Multi-Agent Reinforcement Learning](http://arxiv.org/abs/2410.07976v2)** | 2025-02-20 |  |
-| **[Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning](http://arxiv.org/abs/2502.14768v1)** | 2025-02-20 |  |
-| **[Reinforcement Learning with Graph Attention for Routing and Wavelength Assignment with Lightpath Reuse](http://arxiv.org/abs/2502.14741v1)** | 2025-02-20 |  |
-| **[XLand-100B: A Large-Scale Multi-Task Dataset for In-Context Reinforcement Learning](http://arxiv.org/abs/2406.08973v2)** | 2025-02-20 | <details><summary>ICLR ...</summary><p>ICLR 2025, Poster, Source code: https://github.com/dunnolab/xland-minigrid-datasets</p></details> |
-| **[Oreo: A Plug-in Context Reconstructor to Enhance Retrieval-Augmented Generation](http://arxiv.org/abs/2502.13019v2)** | 2025-02-20 | 14 pages |
-| **[Mapping out the Space of Human Feedback for Reinforcement Learning: A Conceptual Framework](http://arxiv.org/abs/2411.11761v2)** | 2025-02-20 |  |
-| **[Length-Controlled Margin-Based Preference Optimization without Reference Model](http://arxiv.org/abs/2502.14643v1)** | 2025-02-20 |  |
-| **[Curiosity Driven Multi-agent Reinforcement Learning for 3D Game Testing](http://arxiv.org/abs/2502.14606v1)** | 2025-02-20 | <details><summary>Accep...</summary><p>Accepted at the 16th A-TEST Workshop, co-located with ICST 2025</p></details> |
-| **[TeLL-Drive: Enhancing Autonomous Driving with Teacher LLM-Guided Deep Reinforcement Learning](http://arxiv.org/abs/2502.01387v3)** | 2025-02-20 |  |
-| **[ReVISE: Learning to Refine at Test-Time via Intrinsic Self-Verification](http://arxiv.org/abs/2502.14565v1)** | 2025-02-20 |  |
-| **[MLGym: A New Framework and Benchmark for Advancing AI Research Agents](http://arxiv.org/abs/2502.14499v1)** | 2025-02-20 | <details><summary>35 pa...</summary><p>35 pages, 12 figures, 10 tables</p></details> |
-| **[Enhancing Language Multi-Agent Learning with Multi-Agent Credit Re-Assignment for Interactive Environment Generalization](http://arxiv.org/abs/2502.14496v1)** | 2025-02-20 | <details><summary>24 pa...</summary><p>24 pages, under review</p></details> |
-| **[Optimal coordination of resources: A solution from reinforcement learning](http://arxiv.org/abs/2312.14970v2)** | 2025-02-20 | <details><summary>15 pa...</summary><p>15 pages, 13 figures, 1 table, comments are appreciated</p></details> |
+| **[Automating Curriculum Learning for Reinforcement Learning using a Skill-Based Bayesian Network](http://arxiv.org/abs/2502.15662v1)** | 2025-02-21 |  |
+| **[A Simulation Pipeline to Facilitate Real-World Robotic Reinforcement Learning Applications](http://arxiv.org/abs/2502.15649v1)** | 2025-02-21 | <details><summary>Paper...</summary><p>Paper accepted to be presented at IEEE SysCon 2025</p></details> |
+| **[MetaDE: Evolving Differential Evolution by Differential Evolution](http://arxiv.org/abs/2502.10470v2)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted by IEEE TEVC</p></details> |
+| **[DistRL: An Asynchronous Distributed Reinforcement Learning Framework for On-Device Control Agents](http://arxiv.org/abs/2410.14803v5)** | 2025-02-21 | <details><summary>Paper...</summary><p>Paper and Appendix, 26 pages</p></details> |
+| **[PP-MARL: Efficient Privacy-Preserving Multi-Agent Reinforcement Learning for Cooperative Intelligence in Communications](http://arxiv.org/abs/2204.12064v2)** | 2025-02-21 |  |
+| **[Flow of Reasoning:Training LLMs for Divergent Problem Solving with Minimal Examples](http://arxiv.org/abs/2406.05673v4)** | 2025-02-21 |  |
+| **[SALSA-RL: Stability Analysis in the Latent Space of Actions for Reinforcement Learning](http://arxiv.org/abs/2502.15512v1)** | 2025-02-21 |  |
+| **[A View of the Certainty-Equivalence Method for PAC RL as an Application of the Trajectory Tree Method](http://arxiv.org/abs/2501.02652v2)** | 2025-02-21 | <details><summary>15 pa...</summary><p>15 pages, excluding references and appendices. Total of 29 pages</p></details> |
+| **[Shared Control with Black Box Agents using Oracle Queries](http://arxiv.org/abs/2410.19612v2)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted for publication in the 2025 IEEE International Conference on AI and Data Analytics (ICAD 2025)</p></details> |
+| **[Is Q-learning an Ill-posed Problem?](http://arxiv.org/abs/2502.14365v2)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted at ESANN 2025</p></details> |
+| **[Learning Long-Horizon Robot Manipulation Skills via Privileged Action](http://arxiv.org/abs/2502.15442v1)** | 2025-02-21 |  |
+| **[TAG: A Decentralized Framework for Multi-Agent Hierarchical Reinforcement Learning](http://arxiv.org/abs/2502.15425v1)** | 2025-02-21 |  |
+| **[SAMG: Offline-to-Online Reinforcement Learning via State-Action-Conditional Offline Model Guidance](http://arxiv.org/abs/2410.18626v2)** | 2025-02-21 |  |
+| **[IGN : Implicit Generative Networks](http://arxiv.org/abs/2206.05860v3)** | 2025-02-21 | <details><summary>2022 ...</summary><p>2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)</p></details> |
+| **[From Text to Trajectory: Exploring Complex Constraint Representation and Decomposition in Safe Reinforcement Learning](http://arxiv.org/abs/2412.08920v2)** | 2025-02-21 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2024</p></details> |
 
